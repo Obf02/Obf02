@@ -35,5 +35,7 @@
 <h3 align="center">* Currently learning Malware Analysis and Reverse Engineering.<br>* Been using Linux for over 3 years.<br>* I enjoy competing in Catch The Flag competitions!</h3>
 
 ###
-*Visitor count: *
+
+<h2 align="center">Visitors Counter : </h2>
+
 ![Visitor Count](https://profile-counter.glitch.me/Obf02/count.svg)
