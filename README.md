@@ -38,4 +38,6 @@
 
 <h2 align="center">Visitors Counter : </h2>
 
-![Visitor Count](https://profile-counter.glitch.me/Obf02/count.svg)
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Obf02/count.svg"  />
+</div>
